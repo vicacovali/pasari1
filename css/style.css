@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background-image: url("../images/bird.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header {
+    height: 95px;
+    background-color: rgba(0, 0, 255, 0.452);
+    padding-top: 35px;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+}
+main{
+min-height: 482px;
+}
+h3 {
+    text-align: center;
+}
+ul {
+    padding-left: 740px;
+    
+}
+img {
+    height: 100px;
+}
+footer {
+    height: 150px;
+    background-color: rgba(0, 0, 255, 0.527);
+    font-size: 24px;
+    text-align: center;
+    padding-top: 50px;
+}
